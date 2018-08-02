@@ -2,7 +2,7 @@
 title:       Gain's
 email:       bemerciful17@gmail.com
 author:      Ga in Lee
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+description: "개발 블로그"
 baseurl:     ""
 url:         "https://gain-lee.github.io/"
 date_format: "%b %-d, %Y"
