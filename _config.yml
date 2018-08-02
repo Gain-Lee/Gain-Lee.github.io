@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
+title:       Gain's
+email:       bemerciful17@gmail.com
+author:      Ga in Lee
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "https://gain-lee.github.io/"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
